@@ -26,10 +26,18 @@
 **Link(s) to work**: [Sort Array By Parity](https://github.com/aklikh/100-days-of-code/blob/master/code_js/LeetCode_js/SortArrayByParity.js)
 
 ### Day 4: December 30, 2021 
+
+**Today's Progress**: Solved the LeetCode problem.
+
+**Thoughts**: Today was really hard to start solving problems (2 days before New Year).
+
+**Link(s) to work**: [Remove Palindromic Subsequences](https://github.com/aklikh/100-days-of-code/blob/master/code_js/LeetCode_js/removePalindromeSub.js)
+
+### Day 5: December 31, 2021 
 ##### (in-progress)
 
 **Today's Progress**: .
 
 **Thoughts**: .
 
-**Link(s) to work**: [...](http://...)
+**Link(s) to work**: [...](https://)
