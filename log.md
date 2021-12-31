@@ -34,6 +34,15 @@
 **Link(s) to work**: [Remove Palindromic Subsequences](https://github.com/aklikh/100-days-of-code/blob/master/code_js/LeetCode_js/removePalindromeSub.js)
 
 ### Day 5: December 31, 2021 
+
+
+**Today's Progress**: Solved the LeetCode problem.
+
+**Thoughts**: The feeling that the solution to the problem was dirty does not leave. Need to rewrite
+
+**Link(s) to work**: [Find the Difference](https://github.com/aklikh/100-days-of-code/blob/master/code_js/LeetCode_js/FindTheDif.js)
+
+### Day 6: January 1, 2022 
 ##### (in-progress)
 
 **Today's Progress**: .
