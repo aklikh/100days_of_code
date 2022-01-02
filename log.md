@@ -43,6 +43,22 @@
 **Link(s) to work**: [Find the Difference](https://github.com/aklikh/100-days-of-code/blob/master/code_js/LeetCode_js/FindTheDif.js)
 
 ### Day 6: January 1, 2022 
+
+**Today's Progress**: Learned Data Visualization with D3 at FreeCodeCamp.
+
+**Thoughts**:today was a leisurely day.
+
+
+
+### Day 7: January 2, 2022 
+
+**Today's Progress**: Solved the LeetCode problem.
+
+**Thoughts**:It is almost impossible to force yourself to do something on Sunday.
+
+**Link(s) to work**: [Add One Row to Tree](https://github.com/aklikh/100-days-of-code/blob/master/code_js/LeetCode_js/BinaryTreeAddRow.js)
+
+### Day 8: January 3, 2022 
 ##### (in-progress)
 
 **Today's Progress**: .
