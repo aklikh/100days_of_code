@@ -58,11 +58,15 @@
 
 **Link(s) to work**: [Add One Row to Tree](https://github.com/aklikh/100-days-of-code/blob/master/code_js/LeetCode_js/BinaryTreeAddRow.js)
 
-### Day 8: January 3, 2022 
-##### (in-progress)
 
-**Today's Progress**: .
+### **Revacination and restart:**
+##### (here we go again)
 
-**Thoughts**: .
 
-**Link(s) to work**: [...](https://)
+### Day 1: January 5, 2022 
+
+**Today's Progress:** Solved the LeetCode problem. 
+
+**Thoughts:** I start over, yesterday because of the revaccination I could only lie in bed.
+
+**Link(s) to work**: [Implement strStr()](https://github.com/aklikh/100days_of_code/blob/main/code_js/LeetCode_js/strStrImplem.js)
